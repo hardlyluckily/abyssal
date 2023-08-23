@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/hardlyluckily/abyssal
+  repository: https://github.com/hardlyluckily/hardlyluckily.github.io.git
   branch: main
